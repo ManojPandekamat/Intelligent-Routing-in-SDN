@@ -290,7 +290,7 @@ python3 ./ML-Based-Routing/German50.py
 ```
 
 # 3. (Optional) How we generated Dataset
-## In the Dataset_generation folder,I a script is provided to measure delay between each link and create a demo.csv file.
+## In the [Dataset_generation](./Dataset_generation) folder,I a script is provided to measure delay between each link and create a demo.csv file.
 
 ```
 python3 ./Dataset_generation/ditg_delay_measurement.py
